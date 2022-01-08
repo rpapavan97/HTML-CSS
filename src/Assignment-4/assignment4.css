@@ -24,7 +24,8 @@ header nav{
 header h1{
     float: left;
     text-indent: -9999px;
-    background: url('./images/image004.jpg') no-repeat;
+    background: url('./images/image003.png') no-repeat;
+    background-size: cover;
     height: 35px;
     width: 35px;
     margin-top: 8px;
